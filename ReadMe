@@ -1,0 +1,5 @@
+Example call of compiler:
+ ./codegen < testcases/demo1
+
+The file SourceLangugeBNF.txt lists the context free grammar for the project. These rules
+have been specified in file parse.y given to you.
